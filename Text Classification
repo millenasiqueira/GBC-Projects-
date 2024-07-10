@@ -1,0 +1,8 @@
+Creating an analysis with different algorithms and feature extractors. 
+
+Dataset: Fetch 20 Newsgroups ​
+
+Algorithms: Multinomial Naïve Bayes, Logistic Regression, Support Vector Machines, Decision Trees​
+
+Feature Extractors: CountVectorizer, Word2Vec and Doc2vec
+
